@@ -1,0 +1,10 @@
+br/com/uninter/baozistore/model/Produto.class
+br/com/uninter/baozistore/controller/ClienteController.class
+br/com/uninter/baozistore/BaoziStoreApplication.class
+br/com/uninter/baozistore/repository/ClienteRepository.class
+br/com/uninter/baozistore/model/Pedido.class
+br/com/uninter/baozistore/controller/PedidoController.class
+br/com/uninter/baozistore/controller/ProdutoController.class
+br/com/uninter/baozistore/repository/PedidoRepository.class
+br/com/uninter/baozistore/repository/ProdutoRepository.class
+br/com/uninter/baozistore/model/Cliente.class

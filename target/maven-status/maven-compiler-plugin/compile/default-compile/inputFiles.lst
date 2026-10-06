@@ -1,0 +1,10 @@
+/Users/marialuisacampos/Downloads/ENTREGA_BAOZI_STORE/baozi-store-api/src/main/java/br/com/uninter/baozistore/BaoziStoreApplication.java
+/Users/marialuisacampos/Downloads/ENTREGA_BAOZI_STORE/baozi-store-api/src/main/java/br/com/uninter/baozistore/controller/ClienteController.java
+/Users/marialuisacampos/Downloads/ENTREGA_BAOZI_STORE/baozi-store-api/src/main/java/br/com/uninter/baozistore/controller/PedidoController.java
+/Users/marialuisacampos/Downloads/ENTREGA_BAOZI_STORE/baozi-store-api/src/main/java/br/com/uninter/baozistore/controller/ProdutoController.java
+/Users/marialuisacampos/Downloads/ENTREGA_BAOZI_STORE/baozi-store-api/src/main/java/br/com/uninter/baozistore/model/Cliente.java
+/Users/marialuisacampos/Downloads/ENTREGA_BAOZI_STORE/baozi-store-api/src/main/java/br/com/uninter/baozistore/model/Pedido.java
+/Users/marialuisacampos/Downloads/ENTREGA_BAOZI_STORE/baozi-store-api/src/main/java/br/com/uninter/baozistore/model/Produto.java
+/Users/marialuisacampos/Downloads/ENTREGA_BAOZI_STORE/baozi-store-api/src/main/java/br/com/uninter/baozistore/repository/ClienteRepository.java
+/Users/marialuisacampos/Downloads/ENTREGA_BAOZI_STORE/baozi-store-api/src/main/java/br/com/uninter/baozistore/repository/PedidoRepository.java
+/Users/marialuisacampos/Downloads/ENTREGA_BAOZI_STORE/baozi-store-api/src/main/java/br/com/uninter/baozistore/repository/ProdutoRepository.java
